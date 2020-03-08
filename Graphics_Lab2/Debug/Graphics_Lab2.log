@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(74): warning C4244: 'return': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(113): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(168): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(169): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(174): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(176): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(189): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(190): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(196): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(202): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(212): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(213): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(218): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(224): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(239): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(251): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(260): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(260): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(265): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(272): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(272): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\source\repos\Graphics_Lab2\Graphics_Lab2\main.cpp(278): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Graphics_Lab2.vcxproj -> C:\Users\alexv\source\repos\Graphics_Lab2\Debug\Graphics_Lab2.exe
